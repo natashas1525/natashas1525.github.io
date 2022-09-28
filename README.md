@@ -1,6 +1,6 @@
-# Natasha Segarra
+# -
 
-## natashas1525
+## -
 
 ##### Getting your own copy of the template
 
