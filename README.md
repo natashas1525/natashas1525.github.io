@@ -1,6 +1,6 @@
-# Natasha Segarra-Neponuceno
+# Natasha Segarra
 
-## First-time setup
+## natashas1525
 
 ##### Getting your own copy of the template
 
